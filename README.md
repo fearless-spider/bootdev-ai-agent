@@ -1,0 +1,1 @@
+[![Boot.dev Build an AI Agent in Python certificate](https://api.boot.dev/v1/static/certificate/13c3edbb-f492-4bbf-95cd-856dbe1bbb4c)](https://www.boot.dev/certificates/13c3edbb-f492-4bbf-95cd-856dbe1bbb4c)
